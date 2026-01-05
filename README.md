@@ -6,7 +6,7 @@ I'm **Muhamad**, a computer science student at **Harvard Extension School** and 
 
 ## Projects
 
-- **TeachLink** – A web application that connects students with teachers for booking and scheduling lessons  
+- [**TeachLink**](https://github.com/SWDREMOTE/TeachLink) – A web application that connects students with teachers for booking and scheduling lessons
 - **Commerce** – An e-commerce–style web application developed as part of coursework  
 - **Network** – A social-network–style web application featuring user authentication and interactive functionality  
 
