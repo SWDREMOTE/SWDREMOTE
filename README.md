@@ -7,8 +7,6 @@ I'm **Muhamad**, a computer science student at **Harvard Extension School** and 
 ## Projects
 
 - [**TeachLink**](https://github.com/SWDREMOTE/TeachLink) – A web application that connects students with teachers for booking and scheduling lessons
-
-
 - [final-project](https://github.com/SWDREMOTE/cscie12-final-project-SWDREMOTE), final course project for CSCI 12  
 - [astro-and-vue](https://github.com/SWDREMOTE/cscie12-astro-and-vue-SWDREMOTE), Astro and Vue integration project  
 - [js-in-browser-mobile-navigation](https://github.com/SWDREMOTE/cscie12-js-in-browser-mobile-navigation-SWDREMOTE), mobile navigation using in-browser JavaScript  
@@ -25,6 +23,7 @@ I'm **Muhamad**, a computer science student at **Harvard Extension School** and 
 ---
 
 ## Coursework
+- [CSCI 80 – Artificial Intelligence with Python](https://coursebrowser.dce.harvard.edu/course/introduction-to-artificial-intelligence-with-python-3/)
 
 - CSCI 80 – Artificial Intelligence with Python  
 - CSCI 151 – Introduction to Databases with SQL  
