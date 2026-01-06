@@ -1,6 +1,6 @@
 # Hello!
 
-I'm **Muhamad**, a computer science student at **Harvard Extension School** and a software engineer with interests in **web development** and **artificial intelligence**.
+I'm **Muhamad**, a computer science student at **Harvard University** and a software engineer with interests in **web development** and **artificial intelligence**.
 
 ---
 
@@ -22,7 +22,8 @@ I'm **Muhamad**, a computer science student at **Harvard Extension School** and 
 
 ---
 
-## Coursework
+## Coursework at Harvard University
+
 - [CSCI 80 – Artificial Intelligence with Python](https://coursebrowser.dce.harvard.edu/course/introduction-to-artificial-intelligence-with-python-3/)  
 - CSCI 151 – Introduction to Databases with SQL  
 - CSCI 33A – Web Programming with Python and JavaScript  
